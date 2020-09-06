@@ -15,7 +15,7 @@ FunctionGraphPathFinder (fgpf.exe) is a utility which receives an exported radar
 
 Output, when there are three relevant paths:
 
-<span style="color: red">fnc.00114818</span> -> fnc.00124ee6 -> fnc.00115e4d
+<div><span class="text-red">fnc.00114818</span> -&gt; fnc.00124ee6 -&gt; fnc.00115e4d</div>
 
 `fnc.00114818 -> FunctionWithCutomName -> fnc.00124ee6 -> fnc.00115e4d`
 
