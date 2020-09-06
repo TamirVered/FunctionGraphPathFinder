@@ -11,7 +11,7 @@ FunctionGraphPathFinder (fgpf.exe) is a utility which receives an exported radar
 `FunctionGraphPathFinder.exe [path] [source function] [target function]`
 
 ## Example
-`FunctionGraphPathFinder.exe \"C:\\re\\call-graph.json\" fcn.00114818 fcn.00115e4d`
+`FunctionGraphPathFinder.exe "C:\re\call-graph.json" fcn.00114818 fcn.00115e4d`
 
 Output, when there are three relevant paths:
 
