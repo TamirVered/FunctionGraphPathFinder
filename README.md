@@ -17,6 +17,6 @@ Output, when there are three relevant paths:
 
 `fnc.00114818 -> fnc.00124ee6 -> fnc.00115e4d`
 
-`fnc.00114818 -> fnc.FunctionWithCutomName -> fnc.00124ee6 -> fnc.00115e4d`
+`fnc.00114818 -> FunctionWithCutomName -> fnc.00124ee6 -> fnc.00115e4d`
 
-`fnc.00114818 -> fnc.FunctionWithCutomName -> fnc.00115e4d`
+`fnc.00114818 -> FunctionWithCutomName -> fnc.00115e4d`
