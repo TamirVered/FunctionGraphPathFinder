@@ -57,9 +57,9 @@ namespace FunctionGraphPathFinder
         {
             WriteLineColored("This utility receives a global call-graph exported as JSON from cutter and finds all paths between two given functions in it.", ConsoleColor.Yellow);
             WriteColored("Usage: ", ConsoleColor.Yellow);
-            Console.WriteLine("FunctionGraphPathFinder.exe [path] [source function] [target function]");
+            Console.WriteLine("fgpf.exe [path] [source function] [target function]");
             WriteColored("Example: ", ConsoleColor.Yellow);
-            Console.WriteLine("FunctionGraphPathFinder.exe \"C:\\re\\call-graph.json\" fcn.00114818 fcn.00115e4d");
+            Console.WriteLine("fgpf.exe \"C:\\re\\call-graph.json\" fcn.00114818 fcn.00115e4d");
             WriteLineColored("Output, when there are three relevant paths:" + Environment.NewLine, ConsoleColor.Yellow);
             WriteColored("fnc.00114818", ConsoleColor.Red);
             Console.Write(" -> ");
